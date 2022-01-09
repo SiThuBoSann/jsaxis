@@ -23,7 +23,7 @@
 }
 input{
      grid-column: span 4;
-     height: 70px;
+     height: 55px;
      width: 260px;
      background-color: #ecf3f2;
      box-shadow: inset -5px -5px 12px #fff,
@@ -31,7 +31,7 @@ input{
      border-radius: 30px;
      border: none;
      color: rgb(70, 70, 70);
-     font-size: 50px;
+     font-size: 30px;
      text-align: end;
      margin: auto;
      margin-top: 40px;
